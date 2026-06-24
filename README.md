@@ -27,7 +27,7 @@ The Alphabet Collision Game is an interactive typing game developed using **C++*
 |----------|--------------|
 | Language | C++ |
 | Graphics | SFML |
-| IDE | Visual Studio / CodeBlocks |
+| IDE | Dev C++ |
 | Build | CMake / Makefile |
 
 ---
